@@ -1,0 +1,12 @@
+As a sales support user,
+I want a sales force instance created with following screen tabs.
+
+1. Customized Home page (with our company logo)
+2. Support Request
+3. Quote
+
+Each tab will have related object as follows.
+
+Home page; my support request based summary report.
+Support Requests: Products and Solutions, Notes & Attachments.
+Design and Solutions: Approvers, Notes & Attachments.
